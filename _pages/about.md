@@ -2,26 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: Independent Researcher in Artificial Life & Artificial Intelligence
+subtitle: Researcher in Artificial Life & Artificial Intelligence
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>imy [at] imytk [dot] co [dot] uk</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-TESTESTTEST
+Hi, I'm Imy Khan: a researcher primarily working on artificial life, artificial intelligence, and human-robot interaction. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm mostly interested in nature (or bio-)insprired intelligence, social (affective) cognition, cybernetics (or self-organising, adaptive systems), and the intersection of all of these things. For instance, why do social (biological) agents demonstrate better adaptability than non-social agents? What is happening "under the hood"? Can this give us clues about how to build truly intelligent, adaptive artificial intelligence? This also extends to our relationships with artificial systems, like robots: can biological agents (humans) truly form "social bonds" with robots? How does this influence our long-term health and the way we socially interact with these systemms? These (along with hundreds more) are the types of questions that I like to explore.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Though I mostly work independently, I currently have a number of affiliations: I am currently a Research Fellow at the University of Warwick, a Research Fellow at DICE Lab in the University of Gothenburg, and a visiting lecturer at the University of Hertfordshire. I also try to maintain some public outreach activities for the artificial life community: you can read more on the [outreach](/outreach/)page.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
