@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Imran Khan",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "imy@imytk.co.uk", 
+    "phone": "Please enquire.",
+    "url": "https://imytk.co.uk",
+    "summary": "Researcher and consultant in artificial life, artificial intelligence, and human-computer interaction.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
