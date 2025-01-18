@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
 subtitle: Researcher in Artificial Life & Artificial Intelligence
 
