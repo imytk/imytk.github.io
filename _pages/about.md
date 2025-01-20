@@ -18,8 +18,12 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I'm Imy Khan: a researcher primarily working on artificial life, artificial intelligence, and human-robot interaction. 
 
-I'm mostly interested in nature (or bio-)insprired intelligence, social (affective) cognition, cybernetics (or self-organising, adaptive systems), and the intersection of all of these things. For instance, why do social (biological) agents demonstrate better adaptability than non-social agents? What is happening "under the hood"? Can this give us clues about how to build truly intelligent, adaptive artificial intelligence? This also extends to our relationships with artificial systems, like robots: can biological agents (humans) truly form "social bonds" with robots? How does this influence our long-term health and the way we socially interact with these systemms? These (along with hundreds more) are the types of questions that I like to explore.
+I'm mostly interested in nature (or bio-)inspired intelligence, social (affective) cognition, cybernetics (or self-organising, adaptive systems), and the intersection of all of these things. For instance, why do social (biological) agents demonstrate better adaptability than non-social agents? What is happening "under the hood"? Do "emotions" play a role? Can this give us clues about how to build truly intelligent, adaptive artificial intelligence? 
 
-Though I mostly work independently, I currently have a number of affiliations: I am currently a Research Fellow at the University of Warwick, a Research Fellow at DICE Lab in the University of Gothenburg, and a visiting lecturer at the University of Hertfordshire. I also try to maintain some public outreach activities for the artificial life community: you can read more on the outreach page.
+This also extends to our relationships with artificial systems, like robots: can biological agents (humans) truly form "social bonds" with robots? How does this influence our long-term health, and the way we socially interact with these systemms? These (along with hundreds more) are the types of questions that I like to explore, using whatever tools that are available to me.
+
+Though I mostly work independently, I currently have a number of affiliations: I am currently a Research Fellow at the University of Warwick (UK), a Research Fellow at DICE Lab in the University of Gothenburg (Sweden), and a visiting lecturer at the University of Hertfordshire (UK). I also provide consultancy services for private institutions and government organisations in various AI-related areas.
+
+I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/profiles/) page.
 
 
