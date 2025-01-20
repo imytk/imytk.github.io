@@ -7,9 +7,9 @@ subtitle: Researcher in Artificial Life & Artificial Intelligence
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>imy [at] imytk [dot] co [dot] uk</p>
+    <p>imy[at]imytk[dot]co[dot]uk</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -24,6 +24,6 @@ This also extends to our relationships with artificial systems, like robots: can
 
 Though I mostly work independently, I currently have a number of affiliations: I am currently a Research Fellow at the University of Warwick (UK), a Research Fellow at DICE Lab in the University of Gothenburg (Sweden), and a visiting lecturer at the University of Hertfordshire (UK). I also provide consultancy services for private institutions and government organisations in various AI-related areas.
 
-I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/profiles/) page.
+I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/people/) page.
 
 
