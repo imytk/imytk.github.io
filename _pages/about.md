@@ -15,7 +15,6 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 Hi, I'm Imy Khan: a researcher primarily working on artificial life, artificial intelligence, and human-robot interaction. 
 
 I'm mostly interested in nature (or bio-)inspired intelligence, social and affective cognition, cybernetics (or self-organising, adaptive systems), and the intersection of all of these things. 
