@@ -13,7 +13,7 @@ I am part of the [ALife Newsletter](https://alife.org/category/newsletter/) coor
 I host the [What ALife! Podcast](/podcast/) and also occasionally co-host on the [BiotaCast](https://biotacast.org/) podcast. 
 
 I am the **General Chair** for the Emerging Researchers in Artificial Life group & the **Social Outreach Chair** for the International Society of Artificial Life (ISAL) for 2024-2026.
-_Note: You can join the ERA Discord server here._
+_Note: You can join the [ERA Discord server here](https://discord.gg/rbzddE6SHH)._
 
 I also coordinate the ALife & Society Special Interest group which hosts a seminar series and an interdisciplinary working group.
 
@@ -25,8 +25,8 @@ I train and occasionally compete as a hybrid fitness athlete.
 I am the Lead Performance Coach at [enActive Performance](https://enactive.co.uk).
 & I write/produce music as part of a [hip-hop collective](https://thehauserproject.com).
 
-Apart from that, you will mostly find me playing video games, going to see live music, or reading random books that remind me how little I know about things!
+Apart from that, you will mostly find me playing video games, going to see live music, or reading books that remind me how little I know about things!
 
-**Currently Playing:** Core Keeper | The Legend of Zelda: Breath of the Wild | Battle Spirits Saga TCG |
+**Currently Playing:** Core Keeper | It Takes Two | Hades | Tekken 8
 **Currently Reading:** Phenomenology: An Introduction | Life's Other Secret | Embodied Cognition
 **Current Music:** Coheed and Cambria, Thrice, Trivium, Killswitch Engage
