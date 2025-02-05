@@ -1,6 +1,6 @@
 # Research
 
-As of 2025, I currently an independent researcher, working in areas of bio-inspired intelligence, artificial life, embodied (social and affective) cognition, artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics. 
+As of 2025, I'm an independent researcher, working in areas of bio-inspired intelligence, artificial life, embodied (social and affective) cognition, artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics. 
 
 Between 2022-2024, I was awarded a EUTOPIA-SIF MSCA Fellowship, working at the University of Gothenburg (DICE Lab) on the project "Socially Assistive Robot Partners for Digitized Cognitive Intervention Therapy (SARP-DCI)." 
 
