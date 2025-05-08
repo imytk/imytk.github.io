@@ -378,7 +378,7 @@ ninja.data = [{
     },{id: "news-my-website-is-still-undergoing-a-few-updates-please-bear-with-me",
           title: 'My website is still undergoing a few updates. Please bear with me. :)...',
           description: "",
-          section: "News",},{id: "news-i-will-be-hosting-the-quot-societal-outreach-initiatives-for-artificial-life-quot-workshop-at-alife2025-http-2025-alife-org",
+          section: "News",},{id: "news-i-will-be-hosting-the-quot-societal-outreach-initiatives-for-artificial-life-quot-workshop-at-alife-2025-kyoto-japan",
           title: 'I will be hosting the &amp;quot;Societal Outreach Initiatives for Artificial Life&amp;quot; workshop at...',
           description: "",
           section: "News",handler: () => {
