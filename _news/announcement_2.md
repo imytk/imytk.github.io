@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I will be hosting the "Societal Outreach Initiatives for Artificial Life" workshop at [ALIFE2025](http://2025.alife.org). 
+title: I will be hosting the "Societal Outreach Initiatives for Artificial Life" workshop at ALIFE 2025 (Kyoto, Japan).
 date: 2025-04-23 16:11:00 -0400
 inline: false
 related_posts: false
