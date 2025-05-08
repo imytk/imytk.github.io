@@ -378,7 +378,12 @@ ninja.data = [{
     },{id: "news-my-website-is-still-undergoing-a-few-updates-please-bear-with-me",
           title: 'My website is still undergoing a few updates. Please bear with me. :)...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
