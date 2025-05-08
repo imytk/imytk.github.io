@@ -378,8 +378,8 @@ ninja.data = [{
     },{id: "news-my-website-is-still-undergoing-a-few-updates-please-bear-with-me",
           title: 'My website is still undergoing a few updates. Please bear with me. :)...',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-i-will-be-hosting-the-quot-societal-outreach-initiatives-for-artificial-life-quot-workshop-at-alife2025-http-2025-alife-org",
+          title: 'I will be hosting the &amp;quot;Societal Outreach Initiatives for Artificial Life&amp;quot; workshop at...',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
