@@ -1,36 +1,29 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
-description: march & april, looking forward to summer
-tags: formatting links
-categories: sample-posts
+title: Societal Outreach Initiatives for Artificial Life Workshop at ALIFE2025 (Kyoto, Japan)
+date: 2025-04-23 16:40:16
+description: 
+tags: workshops
+categories: 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. [Pinterest](https://www.pinterest.com) DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+Along with Emily Dolson, I will be hosting the “Societal Outreach Initiatives for Artificial Life” workshop at ALIFE2025, where we try to improve the outreach efforts for Artificial Life.
 
-#### Hipster list
+Does ALIFE have a “marketing problem”?
 
-- brunch
-- fixie
-- raybans
-- messenger bag
+Despite significant scientific advancements in Artificial Life over the past four decades, its impact and understanding remains largely confined to academic circles. While initiatives like the ALIFE newsletter, encyclopaedia, various podcasts (links below), and other web resources are attempting to address this, we believe more direct public engagement is crucial. Having outreach channels that can directly communicate artificial life to the public offers an excellent way to promote artificial life as a field, as well as improve public scientific literacy. Improving public knowledge in this way also provides a potential buffer against disinformation or mischaracterisation of artificial life research in the future.
 
-#### Check List
+This interactive workshop aims to bring together conference attendees interested in extending the reach of artificial life to the wider public. We will begin with short invited talks showcasing current outreach efforts and then break out into roundtable discussions to brainstorm how we can improve current initiatives (such as the ALIFE newsletter and ALIFE Encyclopaedia) and generate new ways to improve the societal outreach of artificial life. 
 
-- [x] Brush Teeth
-- [ ] Put on socks
-  - [x] Put on left sock
-  - [ ] Put on right sock
-- [x] Go to school
+Attendees are encouraged to register their interest and prepare potential ideas and discussion points in advance, although space will be provided for new ideas on the day.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+This workshop aims to serve as a springboard for 1-3 new societal outreach initiatives, which attendees will be encouraged to champion and further develop.
 
-<hr>
+Attendees should try to register their interest in advance and submit ideas for discussion ahead of time. More details will be made available in July 2025.
 
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
+Some links to existing ALife outreach initatives:
 
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+- The ALIFE Newsletter: https://alife-newsletter.github.io/Newsletter/
+- The Artificial Life Encyclopedia: https://alife.org/encyclopedia/
+- Biota Podcast: https://biotacast.org/
+- What ALife! Podcast: https://open.spotify.com/show/3u2WswlGc9tThXCYHonUGy?si=ac9da8f22b4e4202
