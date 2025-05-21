@@ -23,7 +23,7 @@ I regularly co-organise the ALIFE & Society Special Session as part of the ALIFE
 
 I train and occasionally compete as a hybrid fitness athlete.
 I am the Lead Performance Coach at [enActive Performance](https://enactive.co.uk).
-& I write/produce music as part of a [hip-hop collective](https://thehauserproject.com).
+& I write/produce music as part of a [hip-hop collective](http://www.thehauserproject.com/).
 
 Apart from that, you will mostly find me playing video games, going to see live music, or reading books that remind me how little I know about things!
 
