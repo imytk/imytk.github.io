@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: about
+permalink: /consultancy/
+title: consultancy
 description:
 nav: true
 nav_order: 3
