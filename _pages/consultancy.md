@@ -3,7 +3,7 @@ layout: profiles
 permalink: /consultancy/
 title: consultancy
 description:
-nav: true
+nav: false
 nav_order: 3
 
 profiles:
