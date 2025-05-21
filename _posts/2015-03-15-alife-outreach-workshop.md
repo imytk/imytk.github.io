@@ -21,9 +21,3 @@ This workshop aims to serve as a springboard for 1-3 new societal outreach initi
 
 Attendees should try to register their interest in advance and submit ideas for discussion ahead of time. More details will be made available in July 2025.
 
-Some links to existing ALife outreach initatives:
-
-- The ALIFE Newsletter: https://alife-newsletter.github.io/Newsletter/
-- The Artificial Life Encyclopedia: https://alife.org/encyclopedia/
-- Biota Podcast: https://biotacast.org/
-- What ALife! Podcast: https://open.spotify.com/show/3u2WswlGc9tThXCYHonUGy?si=ac9da8f22b4e4202
