@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: posts
+title: updates
 nav: true
 nav_order: 1
 pagination:
