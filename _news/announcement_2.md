@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I will be hosting the "Societal Outreach Initiatives for Artificial Life" workshop at [ALIFE2025](http://2025.alife.org). Click for more information.
+I will be hosting the "Societal Outreach Initiatives for Artificial Life" workshop at [ALIFE2025](http://2025.alife.org). 
 
 ---
 
