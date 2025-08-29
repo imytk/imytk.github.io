@@ -27,7 +27,7 @@ These (along with dozens more) questions are what I like to explore, using whate
 
 Though I mostly work independently, I hold a number of affiliations: I am currently a part-time Research Fellow at the University of Warwick (UK), an Affiliated Researcher at [DICE Lab](https://www.dice-r-lab.com/) at the University of Gothenburg (Sweden), and a visiting lecturer at the University of Hertfordshire (UK). 
 
-I also work as an external consultant for private institutions and government organisations, providing 1:1 and group-based consultation and training across many AI, machine learning, and data science-related areas. Click [here](/consultancy_me/) for more information.
+I also work as an external consultant for private institutions and government organisations, providing 1:1 and group-based consultation and training across many AI, machine learning, and data science-related areas. Click [here](/consultancy/) for more information.
 
 I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/people/) page.
 
