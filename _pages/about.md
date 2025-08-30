@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi, I'm Imy Khan: a researcher primarily working on artificial life, artificial intelligence, and human-robot interaction. 
 
-I'm mostly interested in nature (or bio-)inspired intelligence, self-organisation/adaptive systems/cybernetics, social and affective cognition, and the intersection of all of these things. 
+**Research:** I'm mostly interested in nature (or bio-)inspired intelligence, self-organisation/adaptive systems/cybernetics, social and affective cognition, and the intersection of all of these things. 
 
 For instance, why do social (biological) agents demonstrate better adaptability than non-social agents? What is happening "under the hood"? Why did "emotions" evolve the way they did, and how do they affect our ability to self-regulate, self-organise, and adapt? How can we formalise, model, and analyse such systems? Can these things give us clues about how to build truly intelligent, adaptive artificial intelligence? 
 
@@ -25,12 +25,12 @@ This also extends to our relationships with artificial systems (like robots): ca
 
 These (along with dozens more) questions are what I like to explore, using whatever tools that are available to me.
 
-Though I mostly work independently, I hold a number of affiliations: I am currently a part-time Research Fellow at the University of Warwick (UK), an Affiliated Researcher at [DICE Lab](https://www.dice-r-lab.com/) at the University of Gothenburg (Sweden), and a visiting lecturer at the University of Hertfordshire (UK). 
+**Affiliations**: Though I mostly work independently, I hold a number of affiliations: I am currently a part-time Research Fellow at the University of Warwick (UK), an Affiliated Researcher at [DICE Lab](https://www.dice-r-lab.com/) at the University of Gothenburg (Sweden), and a visiting lecturer at the University of Hertfordshire (UK). 
 
-I also work as an external consultant for private institutions and government organisations, providing 1:1 and group-based consultation and training across many AI, machine learning, and data science-related areas. Click [here](/consultancy/) for more information.
+*AI/ML Consultancy*: I also work as an external consultant for private institutions and government organisations, providing 1:1 and group-based consultation and training across many AI, machine learning, and data science-related areas. Click [here](/consultancy/) for more information.
 
-I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/people/) page.
+**Other**: I also try to maintain some public outreach activities for the artificial life community: you can read more on my [about me](/people/) page.
 
-Speaking of adaptive systems, I am also the Head Coach at [enactive Performance](https://enactive.co.uk), a strength and conditioning business offering a range of coaching and programming options.
+Speaking of adaptive systems, I am also the Head Coach at [enactive Performance](https://enactive.co.uk).
 
 
