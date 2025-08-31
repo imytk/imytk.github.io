@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
+        },{id: "post-",
+      
+        title: "",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/2015-08-19-preprint-social-allostasis-2025/";
+        
+      },
+    },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
       
         title: "Societal Outreach Initiatives for Artificial Life Workshop at ALIFE2025 (Kyoto, Japan)",
       
