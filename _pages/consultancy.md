@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /consultancy/
-title: Imran Khan, Ph.D: Strategic AI & Machine Learning Consultancy
+title: Imran Khan, Ph.D - Strategic AI & Machine Learning Consultancy
 description:
 nav: false
 nav_order: 3
