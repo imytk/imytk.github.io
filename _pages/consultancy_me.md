@@ -10,7 +10,7 @@ My approach bridges rigorous academic insight with practical, hands-on industry 
 
 
 
-I partner with both leadership and technical teams, aligning on a shared vision for AI that ensures every initiative is precisely scoped and integrated to meet your core business objectives. 
+I partner with both leadership and technical teams, aligning on a shared vision for AI that ensures every initiative is precisely scoped and integrated to meet your core business objectives.
 
 
 
@@ -46,5 +46,5 @@ Whether your organisation needs to develop a cutting-edge AI product, optimise e
 
 
 
-Please \[contact me](mailto:imy@imytk.co.uk) to schedule a consultation if you are interested in working together.
+Please \[contact me](mailto: imy@imytk.co.uk) to schedule a consultation if you are interested in working together.
 
