@@ -4,7 +4,7 @@ title: New pre-print: [Social] Allostasis: Or, How I Learned To Stop Worrying an
 date: 2025-08-19 12:00:16
 description: 
 tags: papers
-categories: papers
+categories: 
 ---
 
 I have published a new pre-print [over at arXiv](https://arxiv.org/abs/2508.12791), which I will be presenting at ALIFE 2025 in Kyoto, Japan, later this year.
