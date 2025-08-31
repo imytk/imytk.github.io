@@ -42,5 +42,5 @@ Whether your organisation needs to know more about AI/ML foundations and develop
 
 
 
-Please [contact me](mailto: imy@imytk.co.uk) to schedule a consultation if you are interested in working together.
+Please [contact me](mailto:imy@imytk.co.uk) to schedule a consultation if you are interested in working together.
 
