@@ -1,3 +1,7 @@
+# Overview
+
+
+
 With a PhD in Artificial Intelligence and over 15 years of experience spanning industry and academia, I work with organisations to strategically implement AI/machine learning solutions and a data-driven culture that allows them to stay ahead of the competition.
 
 
@@ -26,11 +30,11 @@ Beyond just the technical implementation, I focus on building robust, scalable, 
 
 
 
-# Custom Training & Capability Building
+# Custom Training \& Capability Building
 
 
 
-I am passionate about empowering your internal teams to confidently build, deploy, and manage their own AI systems, creating long-lasting capability and autonomy over these solutions. I develop and lead custom training courses and workshops tailored to your organisation's specific needs, from foundational concepts for new teams to advanced topics for seasoned professionals. I can work with your team to address their specific challenges, providing the expertise they need to take ownership of their AI journey. 
+I am passionate about empowering your internal teams to confidently build, deploy, and manage their own AI systems, creating long-lasting capability and autonomy over these solutions. I develop and lead custom training courses and workshops tailored to your organisation's specific needs, from foundational concepts for new teams to advanced topics for seasoned professionals. I can work with your team to address their specific challenges, providing the expertise they need to take ownership of their AI journey.
 
 
 
