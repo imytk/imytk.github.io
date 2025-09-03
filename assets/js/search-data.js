@@ -34,7 +34,7 @@ ninja.data = [{
       
         title: "New pre-print up on arXiv",
       
-      description: "\[Social\] Allostasis",
+      description: "",
       section: "Posts",
       handler: () => {
         
