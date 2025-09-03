@@ -24,7 +24,7 @@ Beyond just the technical implementation, I focus on building robust, scalable, 
 
 
 
-# Custom Training \& Capability Building
+# Custom Training & Capability Building
 
 
 
