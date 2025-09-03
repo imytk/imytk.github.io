@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New pre-print!
+title: New pre-print 
 date: 2025-08-19 12:00:16
 description: [Social] Allostasis: Or, How I Learned To Stop Worrying and Love The Noise
 tags: papers
