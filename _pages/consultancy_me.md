@@ -1,13 +1,7 @@
 # Overview
 
 
-
-With a PhD in Artificial Intelligence and over 15 years of experience spanning industry and academia, I work with organisations to strategically implement AI/machine learning solutions and a data-driven culture that allows them to stay ahead of the competition.
-
-
-
-My approach bridges rigorous insights from academia with practical, hands-on industry application, translating complex AI and machine learning concepts into tangible value for your organisation, creating custom solutions, optimising existing processes, and fostering a data-driven culture at scale.
-
+As a strategic AI consultant with a PhD in Artificial Intelligence and over 15 years of experience, I help organisations navigate the complexities of AI, machine learning, and data science. My mission is to translate these powerful technologies into a clear competitive advantage by bridging rigorous academic insights with practical, hands-on industry application. I work with you to develop custom solutions, optimise existing processes, and upskill your teams to foster a data-driven culture at all levels.
 
 
 I partner with both leadership and technical teams, aligning on a shared vision for AI that ensures every initiative is precisely scoped and integrated to meet your core business objectives.
