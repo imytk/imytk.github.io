@@ -64,6 +64,8 @@ I am the Lead Performance Coach at [enActive Performance](https://enactive.co.uk
 Apart from that, you will mostly find me playing video games, going to see live music, or reading books that remind me how little I know about things!
 
 **Currently Playing:** Destiny 2 | Core Keeper | It Takes Two | Hades | Tekken 8
+
 **Currently Reading:** Phenomenology: An Introduction | Life's Other Secret | Embodied Cognition
+
 **Current Music:** Coheed and Cambria, Thrice, Trivium, Killswitch Engage
 
