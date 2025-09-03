@@ -30,15 +30,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-new-pre-print-up-on-arxiv",
+        },{id: "post-",
       
-        title: "New pre-print up on arXiv",
+        title: "",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/preprint-social-allostasis-2025/";
+          window.location.href = "/blog/2025/2015-08-19-preprint-social-allostasis-2025/";
         
       },
     },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
