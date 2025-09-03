@@ -12,7 +12,7 @@ This also extends to our relationships with artificial systems (like robots): ca
 
 
 
-These (along with dozens more) questions are what I like to explore, using whatever tools that are available to me, ranging from building computational modelling to empirical studies with humans and artificial systems.
+These (along with dozens more) questions are what I like to explore, using whatever tools that are available to me, ranging from building mathematical and computational models to empirical studies with humans and artificial systems.
 
 
 
