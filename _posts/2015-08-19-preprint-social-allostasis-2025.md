@@ -2,7 +2,7 @@
 layout: post
 title: New pre-print up on arXiv
 date: 2025-08-19 12:00:16
-description: 
+description: \[Social\] Allostasis
 tags: [papers]
 categories: [papers]
 ---
