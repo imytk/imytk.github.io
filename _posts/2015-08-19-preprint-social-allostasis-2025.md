@@ -2,7 +2,7 @@
 layout: post
 title: New pre-print up on arXiv
 date: 2025-08-19 12:00:16
-description: (Social) Allostasis: Or, How I Learned to Stop Worrying and Love the Noise
+description: 
 tags: [papers]
 categories: [papers]
 ---
