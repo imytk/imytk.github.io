@@ -16,6 +16,7 @@ These (along with dozens more) questions are what I like to explore, using whate
 
 
 
+
 Between 2022-2024, I was awarded a EUTOPIA-SIF MSCA Fellowship, working at the University of Gothenburg (DICE Lab) on the project "Socially Assistive Robot Partners for Digitized Cognitive Intervention Therapy (SARP-DCI)."
 
 
@@ -41,9 +42,7 @@ I host the [What ALife! Podcast](/podcast/) and also occasionally co-host on the
 I am the **General Chair** for the Emerging Researchers in Artificial Life group \& the **Social Outreach Chair** for the International Society of Artificial Life (ISAL) for 2024-2026.
 *Note: You can join the* [*ERA Discord server here*](https://discord.gg/rbzddE6SHH)*.*
 
-I also coordinate the ALife & Society Special Interest group which hosts a seminar series and an interdisciplinary working group.
-
-I regularly co-organise the ALIFE & Society Special Session as part of the ALIFE conference.
+I also coordinate the ALife & Society Special Interest group and interdisciplinary working group. You can find out more [here](www.alifeandsociety.org).
 
 
 
