@@ -1,27 +1,29 @@
 # Research
 
-As of 2025, I'm an independent researcher working in areas of bio-inspired intelligence, artificial life, embodied (social and affective) cognition, artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics.
+As of 2025, I'm an independent researcher working in areas of artificial life, 4E cognition (particularly socio-affective cognition), artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics.
 
+By using both physical and artificial systems, I try to understand how and why social interactions and social relationships can play a critical role in health and long-term well-being in social individuals. I am interested in exploring the link between (affective) interactions with the social environment and its adaptive effects on physiology (and self-organisation), how these interactions give rise to socially affective (adaptive) phenomena and emergence at various scales, and how affect can influence various cognitive and behavioural processes.
 
 
 A non-exhaustive list of questions I'm interested in includes: why do social (biological) agents demonstrate better adaptability than non-social agents? What is happening "under the hood"? Why did "emotions" evolve the way they did, and how do they affect our ability to self-regulate, self-organise, and adapt? How can we formalise, model, and analyse such systems? Can these things give us clues about how to build truly intelligent, adaptive artificial intelligence?
-
 
 
 This also extends to our relationships with artificial systems (like robots): can we _truly_ form "social bonds" with robots the same way we do with other humans? How does this influence our long-term health, and the way we socially interact with these artificial systems?
 
 
 
-These (along with dozens more) questions are what I like to explore, using whatever tools that are available to me, ranging from building mathematical and computational models to empirical studies with humans and artificial systems.
+These (along with dozens more) questions are what I like to explore, using whatever tools that are available to me, ranging from building mathematical and computational models to empirical studies with humans and artificial systems. See my list of publications or get in touch for more information.
 
 
 
 
-Between 2022-2024, I was awarded a EUTOPIA-SIF MSCA Fellowship, working at the University of Gothenburg (DICE Lab) on the project "Socially Assistive Robot Partners for Digitized Cognitive Intervention Therapy (SARP-DCI)."
+Between 2022-2024, I was awarded a [EUTOPIA-SIF MSCA Fellowship](https://eutopia-university.eu/english-version/about-us/running-projects/eutopia-sif), working at the University of Gothenburg [(DICE Lab)](https://dice-r-lab.com) on the project "Socially Assistive Robot Partners for Digitized Cognitive Intervention Therapy (SARP-DCI)."
 
 
 
 Before that, I worked on the interdisciplinary project, *"Diversity Creates Diversity: Helping Nature-Recovery Meet the Diverse Needs of People and Nature"*, funded through the NERC Discipline Hopping Grant, at the [Sandom Lab](http://www.sussex.ac.uk/lifesci/sandomlab/) in 2022.
+
+
 
 
 
