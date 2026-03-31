@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="12" fill="#1a1a2e"/>
+  <!-- Hormonal cycle arc (oxytocin) -->
+  <path d="M30,130 C50,60 90,40 100,100 C110,160 150,145 170,70"
+    stroke="#b509ac" stroke-width="2.5" fill="none" opacity="0.9"/>
+  <!-- Stress baseline -->
+  <line x1="20" y1="130" x2="180" y2="130" stroke="#ff6b6b" stroke-width="1" stroke-dasharray="5,4" opacity="0.5"/>
+  <!-- Agents (small circles) interacting -->
+  <circle cx="60" cy="108" r="10" fill="#2698ba" opacity="0.8"/>
+  <circle cx="100" cy="88" r="10" fill="#e040fb" opacity="0.9"/>
+  <circle cx="140" cy="102" r="10" fill="#2698ba" opacity="0.8"/>
+  <!-- Social touch lines -->
+  <line x1="70" y1="108" x2="90" y2="93" stroke="#e040fb" stroke-width="1.5" opacity="0.6"/>
+  <line x1="110" y1="90" x2="130" y2="100" stroke="#e040fb" stroke-width="1.5" opacity="0.6"/>
+  <!-- OT label -->
+  <text x="100" y="50" font-family="sans-serif" font-size="10" fill="#b509ac" text-anchor="middle" opacity="0.8">OT</text>
+  <text x="100" y="62" font-family="sans-serif" font-size="8" fill="#b509ac" text-anchor="middle" opacity="0.6">(oxytocin)</text>
+  <text x="100" y="185" font-family="sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Social Salience · Adaptation</text>
+</svg>
