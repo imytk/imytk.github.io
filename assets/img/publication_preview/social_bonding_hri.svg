@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <rect width="200" height="200" rx="12" fill="#1a1a2e"/>
+  <!-- Robot figure (left) -->
+  <rect x="28" y="60" width="36" height="28" rx="5" fill="#2698ba" opacity="0.9"/>
+  <circle cx="38" cy="70" r="4" fill="white" opacity="0.8"/>
+  <circle cx="52" cy="70" r="4" fill="white" opacity="0.8"/>
+  <rect x="32" y="56" width="28" height="6" rx="3" fill="#1e88e5"/>
+  <rect x="28" y="90" width="36" height="32" rx="4" fill="#2698ba" opacity="0.7"/>
+  <rect x="18" y="92" width="10" height="22" rx="3" fill="#2698ba" opacity="0.6"/>
+  <rect x="72" y="92" width="10" height="22" rx="3" fill="#2698ba" opacity="0.6"/>
+  <rect x="34" y="122" width="10" height="24" rx="3" fill="#2698ba" opacity="0.6"/>
+  <rect x="56" y="122" width="10" height="24" rx="3" fill="#2698ba" opacity="0.6"/>
+  <!-- Human figure (right) -->
+  <circle cx="154" cy="62" r="18" fill="#e8a87c" opacity="0.9"/>
+  <rect x="136" y="82" width="36" height="40" rx="6" fill="#e57373" opacity="0.8"/>
+  <rect x="122" y="86" width="16" height="28" rx="4" fill="#e57373" opacity="0.7"/>
+  <rect x="170" y="86" width="16" height="28" rx="4" fill="#e57373" opacity="0.7"/>
+  <rect x="141" y="122" width="11" height="26" rx="3" fill="#e57373" opacity="0.7"/>
+  <rect x="156" y="122" width="11" height="26" rx="3" fill="#e57373" opacity="0.7"/>
+  <!-- Bond / heart in centre -->
+  <path d="M100,92 C100,80 85,75 85,90 C85,100 100,112 100,112 C100,112 115,100 115,90 C115,75 100,80 100,92 Z"
+    fill="#e040fb" opacity="0.85"/>
+  <!-- oxytocin wave lines -->
+  <path d="M68,100 Q80,88 88,100 Q96,112 100,100" stroke="#e040fb" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <path d="M132,100 Q120,88 112,100 Q104,112 100,100" stroke="#e040fb" stroke-width="1.5" fill="none" opacity="0.5"/>
+  <text x="100" y="185" font-family="sans-serif" font-size="9" fill="#ccc" text-anchor="middle">Social Bonding · HRI</text>
+</svg>
