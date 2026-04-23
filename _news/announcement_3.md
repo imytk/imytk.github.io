@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Talk at the ALife Education Virtual Workshop (AEDU) — May 2026"
-date: 2026-04-23 09:00:00 -0400
+date: 2026-04-22 12:00:00 +0000
 inline: false
 related_posts: false
 ---
