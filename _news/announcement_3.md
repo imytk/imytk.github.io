@@ -6,10 +6,6 @@ inline: false
 related_posts: false
 ---
 
-<div style="margin: 1rem 0;">
-  <img src="/assets/img/aedu2026_talk.svg" alt="Conceptual diagram for the talk: Artificial Life at the centre of Biology, Computer Science, Physics, Philosophy, Cognitive Science, Social Sciences, and Math & Logic, with key pedagogical tensions highlighted." style="width:100%; max-width:760px; border-radius:8px;"/>
-</div>
-
 I will be giving a talk at the **[ALife Education (AEDU) Virtual Workshop](https://forms.gle/your-registration-link)** in May 2026.
 
 ---
