@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-new-pre-print-up-on-arxiv",
-      
-        title: "New pre-print up on arXiv",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/preprint-social-allostasis-2025/";
-        
-      },
-    },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
+        },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
       
         title: "Societal Outreach Initiatives for Artificial Life Workshop at ALIFE2025 (Kyoto, Japan)",
       
@@ -60,6 +49,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-new-pre-print-social-allostasis-or-how-i-learned-to-stop-worrying-and-love-the-noise",
+          title: 'New pre-print: [Social] Allostasis: Or, How I Learned To Stop Worrying and Love...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-talk-at-the-alife-education-virtual-workshop-aedu-may-2026",
           title: 'Talk at the ALife Education Virtual Workshop (AEDU) — May 2026',
           description: "",
