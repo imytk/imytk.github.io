@@ -60,6 +60,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-talk-at-the-alife-education-virtual-workshop-aedu-may-2026",
+          title: 'Talk at the ALife Education Virtual Workshop (AEDU) — May 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
