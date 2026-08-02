@@ -9,8 +9,8 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-updates",
-          title: "updates",
+  },{id: "nav-blog",
+          title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -41,6 +41,28 @@ ninja.data = [{
           window.location.href = "/blog/2026/building-the-alifer-aedu-reflection/";
         
       },
+    },{id: "post-talk-at-the-alife-education-virtual-workshop-aedu-may-2026",
+      
+        title: "Talk at the ALife Education Virtual Workshop (AEDU) — May 2026",
+      
+      description: "An abstract for my AEDU talk, &quot;Artificial Life Is Everywhere — So Why Is It So Hard to Teach?&quot;",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/aedu-talk-announcement/";
+        
+      },
+    },{id: "post-new-pre-print-social-allostasis-or-how-i-learned-to-stop-worrying-and-love-the-noise",
+      
+        title: "New pre-print: [Social] Allostasis: Or, How I Learned To Stop Worrying and Love...",
+      
+      description: "A new arXiv pre-print on allostatic and social allostatic regulation, to be presented at ALIFE 2025.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/social-allostasis-preprint/";
+        
+      },
     },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
       
         title: "Societal Outreach Initiatives for Artificial Life Workshop at ALIFE2025 (Kyoto, Japan)",
@@ -52,25 +74,7 @@ ninja.data = [{
           window.location.href = "/blog/2025/alife-outreach-workshop/";
         
       },
-    },{id: "news-my-website-is-still-undergoing-a-few-updates-please-bear-with-me",
-          title: 'My website is still undergoing a few updates. Please bear with me. :)...',
-          description: "",
-          section: "News",},{id: "news-i-will-be-hosting-the-quot-societal-outreach-initiatives-for-artificial-life-quot-workshop-at-alife-2025-kyoto-japan",
-          title: 'I will be hosting the &amp;quot;Societal Outreach Initiatives for Artificial Life&amp;quot; workshop at...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-new-pre-print-social-allostasis-or-how-i-learned-to-stop-worrying-and-love-the-noise",
-          title: 'New pre-print: [Social] Allostasis: Or, How I Learned To Stop Worrying and Love...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
-            },},{id: "news-talk-at-the-alife-education-virtual-workshop-aedu-may-2026",
-          title: 'Talk at the ALife Education Virtual Workshop (AEDU) — May 2026',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_3/";
-            },},{id: "projects-project-1",
+    },{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
