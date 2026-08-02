@@ -33,8 +33,10 @@ In the talk, I framed this around three things that artificial life struggles wi
 
 When we consider that each of these can encapsulate a certain entry point into our field (e.g. people coming from the life sciences have a good handle of the *domain* of ALife; people coming from computer science are well trained in a *methodology*, and complexity scientists understand the *mindset*), then "building the ALifer" becomes a matter of systematically moving someone across all three and letting them find their home in the middle. The triangle is thus not a taxonomy of topics but a description of a *trajectory* through them.
 
+{% include figure.liquid path="assets/img/DMM.png" class="img-fluid rounded z-depth-1" zoomable=true caption="Artificial life as the interplay of <em>domain</em>, <em>methodology</em>, and <em>mindset</em> — with ALife itself emerging in the middle, once all three are held together." %}
+
 Please feel free to check out the talk above (and the rest of the incredible workshop talks!). If any of this resonates with you, and if you want to contribute, disagree productively, or just compare notes on how you introduce artificial life to newcomers, I'd really like to hear from you. I'm happy to present or discuss these ideas at workshops, seminars, and reading groups, and I'm keen to hear from anyone who has tried to map their own teaching onto a framework like this. You can [get in touch here](mailto:imy@imytk.co.uk).
 
 And if you already teach or work in this space, the two questions I keep coming back to are the ones I'll leave you with: *what do you do that you'd call artificial life — and, looking at the triangle, what's missing?*
 
-Slides here, available under CC-NA-4.0.
+The slides for this talk are available [here](/assets/pdf/alife-is-everywhere-slides.pdf), shared under a [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) licence.
