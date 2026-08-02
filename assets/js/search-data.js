@@ -41,6 +41,17 @@ ninja.data = [{
           window.location.href = "/blog/2026/building-the-alifer-aedu-reflection/";
         
       },
+    },{id: "post-workshop-paper-accepted-at-h-star-ro-man-2026",
+      
+        title: "Workshop paper accepted at H-STAR (RO-MAN 2026)",
+      
+      description: "A short note on an accepted paper at the Human State-Aware Robotics (H-STAR) workshop at RO-MAN 2026.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/hstar-roman-workshop-paper/";
+        
+      },
     },{id: "post-talk-at-the-alife-education-virtual-workshop-aedu-may-2026",
       
         title: "Talk at the ALife Education Virtual Workshop (AEDU) — May 2026",
@@ -50,6 +61,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2026/aedu-talk-announcement/";
+        
+      },
+    },{id: "post-humbled-to-receive-an-alife-2025-award",
+      
+        title: "Humbled to receive an ALIFE 2025 Award",
+      
+      description: "A few grateful words on receiving an ALIFE 2025 Award for services to the conference.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/alife-2025-award/";
         
       },
     },{id: "post-new-pre-print-social-allostasis-or-how-i-learned-to-stop-worrying-and-love-the-noise",
