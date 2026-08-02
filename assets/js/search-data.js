@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
+        },{id: "post-reflections-on-the-aedu-workshop",
+      
+        title: "Reflections on the AEDU workshop",
+      
+      description: "A recap of my talk at the ALife in Education (AEDU) workshop &amp; other thoughts.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/building-the-alifer-aedu-reflection/";
+        
+      },
+    },{id: "post-societal-outreach-initiatives-for-artificial-life-workshop-at-alife2025-kyoto-japan",
       
         title: "Societal Outreach Initiatives for Artificial Life Workshop at ALIFE2025 (Kyoto, Japan)",
       
