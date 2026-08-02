@@ -63,11 +63,11 @@ ninja.data = [{
           window.location.href = "/blog/2026/aedu-talk-announcement/";
         
       },
-    },{id: "post-humbled-to-receive-an-alife-2025-award",
+    },{id: "post-i-received-the-alife-2025-award",
       
-        title: "Humbled to receive an ALIFE 2025 Award",
+        title: "I received the ALIFE 2025 Award!",
       
-      description: "A few grateful words on receiving an ALIFE 2025 Award for services to the conference.",
+      description: "A few words on receiving an ALIFE 2025 Award for services to the conference.",
       section: "Posts",
       handler: () => {
         
