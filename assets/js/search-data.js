@@ -41,11 +41,11 @@ ninja.data = [{
           window.location.href = "/blog/2026/building-the-alifer-aedu-reflection/";
         
       },
-    },{id: "post-workshop-paper-accepted-at-h-star-ro-man-2026",
+    },{id: "post-new-workshop-paper-what-are-we-measuring-bonding-trust-and-human-robot-relationships",
       
-        title: "Workshop paper accepted at H-STAR (RO-MAN 2026)",
+        title: "New workshop paper: What Are We Measuring? Bonding, Trust, and Human–Robot Relationships",
       
-      description: "A short note on an accepted paper at the Human State-Aware Robotics (H-STAR) workshop at RO-MAN 2026.",
+      description: "An accepted paper at the H-STAR workshop (RO-MAN 2026) arguing that trust and social bonding are distinct constructs, and what that means for human-state-aware robotics.",
       section: "Posts",
       handler: () => {
         
