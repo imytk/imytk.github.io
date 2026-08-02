@@ -2,7 +2,9 @@
 layout: post
 title: "New pre-print: [Social] Allostasis: Or, How I Learned To Stop Worrying and Love The Noise"
 date: 2025-08-19 12:00:00 +0000
-inline: false
+description: A new arXiv pre-print on allostatic and social allostatic regulation, to be presented at ALIFE 2025.
+tags: papers preprints alife
+categories:
 related_posts: false
 ---
 

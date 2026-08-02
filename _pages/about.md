@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>imy[at]imytk[dot]co[dot]uk</p>
 
-news: true # includes a list of news items
+news: false # news consolidated into blog posts; homepage shows recent posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
