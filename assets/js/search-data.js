@@ -30,7 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "post-reflections-on-the-aedu-workshop",
+        },{id: "dropdown-alife-expo",
+              title: "ALife Expo",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-what-alife-podcast",
+              title: "What ALife! Podcast",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "post-reflections-on-the-aedu-workshop",
       
         title: "Reflections on the AEDU workshop",
       
