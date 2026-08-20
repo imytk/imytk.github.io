@@ -21,8 +21,6 @@ Hi, I'm Imy Khan: a researcher primarily working on artificial life, artificial 
 
 **Affiliations**: I am currently a Teaching Fellow at the University of Warwick (Department of Computer Science). I am also an Honorary Research Fellow in the Department of Psychology at the University of Warwick, an Affiliated Researcher at [DICE Lab](https://www.dice-r-lab.com/) at the University of Gothenburg (Sweden), and a Visiting Lecturer at the University of Hertfordshire (UK). 
 
-**AI & ML Consultancy**: Click [here](/consultancy/) for more information.
-
 **Other**: I also try to maintain some public outreach activities for the artificial life community. I am also the Lead Coach at [enactive Performance](https://enactive.co.uk). 
 
 [More details here](/people/).
