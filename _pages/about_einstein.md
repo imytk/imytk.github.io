@@ -1,6 +1,6 @@
 # Research
 
-As of 2025, I'm an independent researcher working in areas of artificial life, 4E cognition (particularly socio-affective cognition), artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics.
+I'm a researcher working in areas of artificial life, 4E cognition (particularly socio-affective cognition), artificial intelligence (both basic and applied research), affective computing, human-robot interaction, and adaptive systems/cybernetics.
 
 By using both physical and artificial systems, I try to understand how and why social interactions and social relationships can play a critical role in health and long-term well-being in social individuals. I am interested in exploring the link between (affective) interactions with the social environment and its adaptive effects on physiology (and self-organisation), how these interactions give rise to socially affective (adaptive) phenomena and emergence at various scales, and how affect can influence various cognitive and behavioural processes.
 
@@ -25,14 +25,6 @@ Before that, I worked on the interdisciplinary project, *"Diversity Creates Dive
 
 
 
-
-
-# AI/ML Consultancy
-
-I offer a range of consultancy services for private institutions, government and non-government organisations as well as 1:1 and group-based consultation and training across various AI, machine learning, and data science-related areas. [Click here for more information](/consultancy/).
-
-
-
 # Scientific Outreach
 
 
@@ -41,8 +33,7 @@ I am part of the [ALife Newsletter](https://alife.org/category/newsletter/) coor
 
 I host the [What ALife! Podcast](/podcast/) and also occasionally co-host on the [BiotaCast](https://biotacast.org/) podcast.
 
-I am the **General Chair** for the Emerging Researchers in Artificial Life group \& the **Social Outreach Chair** for the International Society of Artificial Life (ISAL) for 2024-2026.
-*Note: You can join the* [*ERA Discord server here*](https://discord.gg/rbzddE6SHH)*.*
+I am the **Education and Social Outreach Chair** for the International Society of Artificial Life (ISAL) for 2026-28.
 
 I also coordinate the ALife & Society Special Interest group and interdisciplinary working group. You can find out more [here](www.alifeandsociety.org).
 
@@ -64,7 +55,7 @@ I am the Lead Performance Coach at [enActive Performance](https://enactive.co.uk
 
 Apart from that, you will mostly find me playing video games, going to see live music, or reading books that remind me how little I know about things!
 
-**Currently Playing:** Destiny 2 | Core Keeper | It Takes Two | Hades | Tekken 8
+**Currently Playing:** Split Fiction | Core Keeper | Hades | Tekken 8
 
 **Currently Reading:** Phenomenology: An Introduction | Life's Other Secret | Embodied Cognition
 
