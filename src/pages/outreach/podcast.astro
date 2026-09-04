@@ -1,0 +1,16 @@
+---
+import { url } from '../../utils/paths';
+import Layout from '../../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="What ALife! Podcast"
+	description="A podcast making artificial life accessible, one conversation at a time."
+	pubDate={new Date('January 1 2025')}
+	heroImage={url('/alife2025.jpg')}
+>
+	<p>
+		The <strong>What ALife! Podcast</strong> is a show I host about artificial life and the people who study it. Part light-hearted conversation, part research round-up, and part deep-dive interview with scientists and practitioners across every career stage, all aimed at breaking down the complexities of ALife and making the field a little more accessible to everyone. You can listen below, or find it on Spotify, Amazon Music, and other platforms.
+	</p>
+	<iframe style="border-radius:12px" src="https://open.spotify.com/embed/show/3u2WswlGc9tThXCYHonUGy?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen loading="lazy" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+</Layout>

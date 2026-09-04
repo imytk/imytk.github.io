@@ -1,0 +1,27 @@
+---
+title: 'I received the ALIFE 2025 Award!'
+description: 'A few words on receiving an ALIFE 2025 Award for services to the conference.'
+pubDate: '2025-10-11'
+authors:
+  - imy-khan
+tags:
+  - awards
+  - alife
+  - conferences
+---
+
+I'm not quite sure how to start this! But I wanted to write a short note to say how grateful and humbled I am to have received the **ALIFE 2025 Award** at the ALIFE conference, for my services to this year's conference.
+
+![Receiving the award at ALIFE 2025 (Ciphers of Life) in Kyoto :)](/blog/2025award.png)
+
+ALIFE 2025 (*Ciphers of Life*) was a really special conference, and being recognised in this way by a community I care about so much means a great deal to me.
+
+I had an enormous amount of fun helping to put together some of the things that made the week what it was: the **scavenger hunt**, the **public expo** (which we plan on making digital soon!), and the **conference mascot design competition** were all really fun to put together. It was wonderful to see attendees (and the public!) throw themselves into them.
+
+To be honest, I feel a bit guilty receiving the award, since the recognition belongs at least as much to everyone I got to work alongside. Organising anything at a conference of this scale is very much a team effort, and I was lucky to share it with brilliant, generous people.
+
+Trying to make artificial life a little more engaging, playful, visible, and welcoming is something I'm really fond of, so getting to do it at this year's conference was a real privilege.
+
+On top of all that, I was also fortunate enough to present my own paper, *[Social Allostasis: Or, How I Learned to Stop Worrying and Love the Noise](/blog/social-allostasis-preprint/)*. A lovely bonus in an already memorable week :)
+
+Thank you to the organisers, the community, and everyone who made ALIFE 2025 what it was.
