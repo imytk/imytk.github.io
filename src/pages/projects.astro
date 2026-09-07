@@ -3,161 +3,154 @@ import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import { SITE_TITLE } from '../consts';
-import AuthorLink from '../components/AuthorLink.astro';
 import projectsData from '../data/projects.json';
 import { url } from '../utils/paths';
 
-const projects = projectsData.sort((a, b) => b.year - a.year);
+const projects = projectsData;
 ---
 
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`Projects | ${SITE_TITLE}`} description="Research Projects" />
+		<BaseHead title={`Projects | ${SITE_TITLE}`} description="Research projects and public engagement initiatives." />
 		<style>
 			.projects-section {
 				max-width: var(--max-width);
 				margin: 0 auto;
 			}
 			.projects-hero {
-				text-align: center;
-				margin-bottom: 4rem;
-				padding: 2rem 0;
+				margin-bottom: 3rem;
+				padding: 2rem 0 0;
 			}
 			.projects-hero h1 {
 				font-family: var(--font-serif);
-				font-size: 3.2rem;
+				font-size: 2.75rem;
 				margin: 0 0 1rem 0;
 				color: var(--color-text-main);
 				letter-spacing: -0.02em;
 				line-height: 1.2;
 			}
 			.projects-hero p {
-				font-size: 1.15rem;
+				font-size: 1.1rem;
 				color: var(--color-text-muted);
 				max-width: 700px;
-				margin: 0 auto;
 				line-height: 1.7;
 			}
-			.projects-grid {
-				display: grid;
-				grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-				gap: 2.5rem;
-				margin-bottom: 4rem;
-			}
-			.project-card {
+			.project-list {
 				display: flex;
 				flex-direction: column;
+				gap: 2.5rem;
+				margin-bottom: 3.5rem;
+			}
+			.project-card {
 				background-color: var(--color-bg-offset);
 				border: 1px solid var(--color-border);
 				border-radius: 16px;
-				overflow: hidden;
-				transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
-				box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+				padding: 2rem;
 			}
-			.project-card:hover {
-				transform: translateY(-6px);
-				box-shadow: var(--shadow-lg);
-				border-color: var(--color-accent);
-			}
-			.project-image {
-				position: relative;
-				width: 100%;
-				aspect-ratio: 16 / 9;
-				overflow: hidden;
-			}
-			.project-image img {
-				width: 100%;
-				height: 100%;
-				object-fit: cover;
-				transition: transform 0.6s ease;
-			}
-			.project-card:hover .project-image img {
-				transform: scale(1.05);
-			}
-			.project-badge {
-				position: absolute;
-				top: 1rem;
-				right: 1rem;
-				padding: 0.35rem 0.8rem;
-				background-color: var(--color-bg-header);
-				color: var(--color-text-main);
-				font-size: 0.7rem;
-				font-weight: 700;
-				text-transform: uppercase;
-				letter-spacing: 0.1em;
-				border-radius: 20px;
-				backdrop-filter: blur(8px);
-				box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-				z-index: 10;
-			}
-			.project-content-wrapper {
+			.project-header {
 				display: flex;
-				flex-direction: column;
-				padding: 1.75rem;
-				flex: 1;
+				justify-content: space-between;
+				align-items: baseline;
+				flex-wrap: wrap;
+				gap: 0.5rem 1rem;
+				margin-bottom: 0.5rem;
 			}
-			.project-year {
+			.project-card h2 {
+				font-family: var(--font-serif);
+				font-size: 1.5rem;
+				margin: 0;
+				border-bottom: none;
+				padding-bottom: 0;
+				display: block;
+				color: var(--color-text-main);
+				line-height: 1.3;
+			}
+			.project-status {
 				font-size: 0.75rem;
 				color: var(--color-accent);
 				font-weight: 700;
 				text-transform: uppercase;
-				letter-spacing: 0.1em;
-				margin-bottom: 0.5rem;
+				letter-spacing: 0.08em;
+				white-space: nowrap;
 			}
-			.project-card h3 {
-				font-family: var(--font-serif);
-				font-size: 1.4rem;
-				margin: 0 0 1rem 0;
-				line-height: 1.3;
-				color: var(--color-text-main);
-			}
-			.project-card h3 a {
-				color: inherit;
-				text-decoration: none;
+			.project-meta-line {
+				font-size: 0.9rem;
+				color: var(--color-text-muted);
+				margin-bottom: 1.1rem;
 			}
 			.project-description {
 				color: var(--color-text-muted);
-				font-size: 0.95rem;
-				line-height: 1.6;
-				margin-bottom: 1.5rem;
-				flex: 1;
-			}
-			.project-meta {
-				display: flex;
-				align-items: center;
-				gap: 0.5rem;
-				font-size: 0.85rem;
+				font-size: 1rem;
+				line-height: 1.7;
 				margin-bottom: 1.25rem;
-				flex-wrap: wrap;
-				padding-top: 1rem;
-				border-top: 1px solid var(--color-border);
 			}
-			.meta-label {
+			.project-outputs {
+				border-top: 1px solid var(--color-border);
+				padding-top: 1.1rem;
+			}
+			.project-outputs-label {
+				font-size: 0.75rem;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 0.08em;
+				color: var(--color-text-muted);
+				margin-bottom: 0.6rem;
+			}
+			.project-outputs ul {
+				margin: 0;
+				padding-left: 1.25rem;
+			}
+			.project-outputs li {
+				font-size: 0.92rem;
+				color: var(--color-text-muted);
+				margin-bottom: 0.4rem;
+				line-height: 1.5;
+			}
+			.project-outputs li strong {
+				color: var(--color-text-main);
 				font-weight: 600;
+			}
+			.project-audience {
+				margin-top: 1.1rem;
+				font-size: 0.9rem;
+				font-style: italic;
 				color: var(--color-text-muted);
 			}
-			.author-names {
+			.engagement-section h2 {
+				margin-top: 0;
+			}
+			.engagement-list {
+				list-style: none;
+				padding: 0;
+				margin: 1.5rem 0 0;
+				display: flex;
+				flex-direction: column;
+				gap: 1.25rem;
+			}
+			.engagement-list li {
+				padding-bottom: 1.25rem;
+				border-bottom: 1px solid var(--color-border);
+			}
+			.engagement-list li:last-child {
+				border-bottom: none;
+				padding-bottom: 0;
+			}
+			.engagement-list strong {
+				display: block;
+				font-family: var(--font-serif);
+				font-size: 1.1rem;
 				color: var(--color-text-main);
-				font-weight: 500;
+				margin-bottom: 0.25rem;
 			}
-			.read-more {
-				display: inline-flex;
-				align-items: center;
-				font-size: 0.9rem;
-				color: var(--color-accent);
-				text-decoration: none;
-				font-weight: 600;
-				transition: gap 0.2s ease;
-				gap: 0.25rem;
-			}
-			.read-more:hover {
-				gap: 0.5rem;
+			.engagement-list span {
+				color: var(--color-text-muted);
+				font-size: 0.95rem;
+				line-height: 1.6;
 			}
 			@media (max-width: 768px) {
-				.projects-hero h1 { font-size: 2.5rem; }
-				.projects-grid { gap: 2rem; }
-				.project-content-wrapper { padding: 1.5rem; }
+				.projects-hero h1 { font-size: 2.1rem; }
+				.project-card { padding: 1.5rem; }
 			}
 		</style>
 	</head>
@@ -166,59 +159,74 @@ const projects = projectsData.sort((a, b) => b.year - a.year);
 		<main class="projects-section">
 			<div class="projects-hero">
 				<h1>Research Projects</h1>
-				<p>Landmark philosophical investigations that have fundamentally shaped the course of Western intellectual history.</p>
+				<p>
+					The research programmes I've led or contributed to, grouped by theme rather than by paper — useful if you're a student or academic looking to get a sense of the bigger picture, or wondering where a particular publication fits.
+				</p>
 			</div>
-			
-			<div class="projects-grid">
-				{projects.length > 0 ? projects.map((project) => (
+
+			<div class="project-list">
+				{projects.map((project) => (
 					<article class="project-card">
-						<div class="project-image">
-							<img
-								src={url(`/projects/${project.id}.png`)}
-								alt={project.title}
-							/>
-							<span class="project-badge">{project.status}</span>
+						<div class="project-header">
+							<h2>{project.title}</h2>
+							<span class="project-status">{project.status}</span>
 						</div>
-
-						<div class="project-content-wrapper">
-							<div class="project-header">
-								<span class="project-year">{project.year > 0 ? project.year : 'Classical'}</span>
-								<h3>
-									{project.link ? (
-										<a href={project.link} target="_blank">{project.title}</a>
-									) : (
-										project.title
-									)}
-								</h3>
+						<div class="project-meta-line">
+							{project.years} &middot; {project.affiliation}
+						</div>
+						<p class="project-description">{project.description}</p>
+						{project.outputs && project.outputs.length > 0 && (
+							<div class="project-outputs">
+								<div class="project-outputs-label">Key Outputs</div>
+								<ul>
+									{project.outputs.map((out) => (
+										<li>
+											{out.link ? (
+												<a href={out.link} target="_blank" rel="noopener noreferrer"><strong>{out.title}</strong></a>
+											) : (
+												<strong>{out.title}</strong>
+											)}
+											{' '}&mdash; {out.venue}, {out.year}
+										</li>
+									))}
+								</ul>
 							</div>
-							
-							<p class="project-description">{project.description}</p>
-							
-							{project.authors && project.authors.length > 0 && (
-								<div class="project-meta">
-									<span class="meta-label">By:</span>
-									<span class="author-names">
-										{project.authors.map((authorId, i) => (
-											<span>
-												<AuthorLink nameOrSlug={authorId} />
-												{i < project.authors!.length - 1 ? ', ' : ''}
-											</span>
-										))}
-									</span>
-								</div>
-							)}
-
-							{project.link && (
-								<a href={project.link} target="_blank" class="read-more">
-									Read More &rarr;
-								</a>
-							)}
-						</div>
+						)}
+						{project.audience && (
+							<p class="project-audience">{project.audience}</p>
+						)}
 					</article>
-				)) : (
-                    <p>No projects found in <code>src/data/projects.json</code>.</p>
-                )}
+				))}
 			</div>
+
+			<section class="engagement-section">
+				<h2>Public Engagement & Community Initiatives</h2>
+				<p style="color: var(--color-text-muted); max-width: 700px;">
+					Alongside my research, I run and contribute to a few community initiatives aimed at making artificial life more visible and accessible &mdash; good entry points if you're new to the field or looking to get more involved.
+				</p>
+				<ul class="engagement-list">
+					<li>
+						<strong>ALife Expo</strong>
+						<span>
+							A public-facing digital exhibition making the big ideas of artificial life &mdash; emergence, self-organisation, evolution, complexity from simplicity &mdash; accessible with no background required. Co-curated with Martha Emerson, grown out of the public expo we organised at ALIFE 2025.
+							<a href="https://alife-expo.org" target="_blank" rel="noopener noreferrer">Visit the ALife Expo &rarr;</a>
+						</span>
+					</li>
+					<li>
+						<strong>What ALife! Podcast</strong>
+						<span>
+							A show I host exploring artificial life and the people who study it, through conversations with researchers and practitioners across every career stage.
+							<a href={url('/outreach/podcast')}>Listen to the podcast &rarr;</a>
+						</span>
+					</li>
+					<li>
+						<strong>ALife Newsletter & ALife and Society SIG</strong>
+						<span>
+							I'm part of the coordination team for the <a href="https://alife.org/category/newsletter/" target="_blank" rel="noopener noreferrer">ALife Newsletter</a>, a bi-monthly community digest, and I coordinate the ALife & Society Special Interest Group and interdisciplinary working group. I'm also the Education and Social Outreach Chair for the International Society of Artificial Life (ISAL) for 2026&ndash;28.
+						</span>
+					</li>
+				</ul>
+			</section>
 		</main>
 		<Footer />
 	</body>

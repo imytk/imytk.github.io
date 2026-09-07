@@ -9,9 +9,11 @@ import Header from '../components/Header.astro';
 import TableOfContents from '../components/TableOfContents.astro';
 import { url } from '../utils/paths';
 
-type Props = CollectionEntry<'blog'>['data'] & { id?: string, headings?: { depth: number; slug: string; text: string }[], toc?: boolean };
+type Props = CollectionEntry<'blog'>['data'] & { id?: string, headings?: { depth: number; slug: string; text: string }[], toc?: boolean, compactHero?: boolean, hideDate?: boolean, heroWidth?: number, heroHeight?: number };
 
-const { title, description, pubDate, updatedDate, heroImage, authors, tags, id, headings = [], toc } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, authors, tags, id, headings = [], toc, compactHero, hideDate, heroWidth, heroHeight } = Astro.props;
+const resolvedHeroWidth = heroWidth ?? (compactHero ? 640 : 1020);
+const resolvedHeroHeight = heroHeight ?? (compactHero ? 320 : 510);
 ---
 
 <html lang="en">
@@ -37,6 +39,10 @@ const { title, description, pubDate, updatedDate, heroImage, authors, tags, id, 
 				box-shadow: var(--shadow-md);
 				max-width: 100%;
 				height: auto;
+			}
+			.hero-image.compact {
+				max-width: 640px;
+				margin: 0 auto;
 			}
 
 			.blog-container {
@@ -485,24 +491,26 @@ const { title, description, pubDate, updatedDate, heroImage, authors, tags, id, 
 		<main>
 			<article>
 				{heroImage && (
-					<div class="hero-image">
-						<Image width={1020} height={510} src={heroImage} alt={title} />
+					<div class:list={["hero-image", { compact: compactHero }]}>
+						<Image width={resolvedHeroWidth} height={resolvedHeroHeight} src={heroImage} alt={title} />
 					</div>
 				)}
 				<div class="blog-container" style="position: relative;">
 					<div class="prose-wrapper">
 						<div class="prose">
 							<div class="title">
-								<div class="date">
-									<FormattedDate date={pubDate} />
-									{
-										updatedDate && (
-											<div class="last-updated-on">
-												Last updated on <FormattedDate date={updatedDate} />
-											</div>
-										)
-									}
-								</div>
+								{!hideDate && (
+									<div class="date">
+										<FormattedDate date={pubDate} />
+										{
+											updatedDate && (
+												<div class="last-updated-on">
+													Last updated on <FormattedDate date={updatedDate} />
+												</div>
+											)
+										}
+									</div>
+								)}
 								<h1>{title}</h1>
 								{authors && authors.length > 0 && (
 									<div class="blog-authors">

@@ -2,7 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Imy Khan, Ph.D.';
-export const SITE_DESCRIPTION = 'Researcher in Artificial Life & Artificial Intelligence, AI/ML/Data Science Consultant.';
+export const SITE_DESCRIPTION = 'Researcher in Artificial Life & Artificial Intelligence.';
 
 export const CV_URL = '';
 

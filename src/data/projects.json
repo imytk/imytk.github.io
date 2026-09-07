@@ -1,1 +1,46 @@
-[]
+[
+  {
+    "id": "social-allostasis",
+    "title": "Social Allostasis & Affect-Based Bonding in Artificial Agents",
+    "status": "Ongoing",
+    "years": "2018–present",
+    "affiliation": "University of Hertfordshire (PhD) → DICE Lab, University of Gothenburg → independent",
+    "description": "My core, long-running research programme. It uses agent-based modelling and, more recently, active inference to treat social bonds and relationships as adaptive, allostatic-like regulatory mechanisms shared by biological and artificial social agents. It began with simulating oxytocin- and cortisol-like social buffering in simulated agent societies (my PhD thesis), and has since grown to cover physiological and biobehavioural proxies for bonding in human-robot interaction, a formal active-inference account of allostatic regulation under stress, and, most recently, an argument for treating trust and social bonding as genuinely separate constructs when evaluating human-robot relationships.",
+    "outputs": [
+      { "title": "Modeling Affect-Based Relationships and Social Allostasis as Mechanisms for Adaptation in Social Groups", "venue": "PhD Thesis, University of Hertfordshire", "year": 2021 },
+      { "title": "Modelling the Social Buffering Hypothesis in an Artificial Life Environment", "venue": "ALIFE 2020", "year": 2020 },
+      { "title": "The Long-Term Efficacy of “Social Buffering” in Artificial Social Agents: Contextual Affective Perception Matters", "venue": "Frontiers in Robotics and AI", "year": 2022 },
+      { "title": "Surprise! Using Physiological Stress for Allostatic Regulation Under the Active Inference Framework", "venue": "ACII 2024 — Best Paper Award Nominee", "year": 2024 },
+      { "title": "What Are We Measuring? Bonding, Trust, and the Evaluation of Human-Robot Relationships", "venue": "H-STAR Workshop, RO-MAN 2026 (preprint)", "year": 2026, "link": "https://arxiv.org/abs/2608.24915" }
+    ],
+    "audience": "Students and academics interested in agent-based modelling, active inference, affective computing, or methods for evaluating human-robot relationships."
+  },
+  {
+    "id": "sarp-dci",
+    "title": "SARP-DCI: Socially Assistive Robot Partners for Digitized Cognitive Intervention Therapy",
+    "status": "Fellowship completed — collaboration ongoing",
+    "years": "2022–2024",
+    "affiliation": "EUTOPIA-SIF MSCA Fellowship, DICE Lab, University of Gothenburg",
+    "description": "A fellowship project, and the wider collaborative programme it grew into, developing socially assistive robots and gamified digital adaptations of the Differential Outcomes Procedure (DOP) for cognitive intervention with people with neurocognitive disorders and related populations. Carried out with Robert Lowe's group at DICE Lab, it spans robot-mediated visuospatial memory training, affective-linguistic mutual learning between humans and robots, automatic detection of user engagement, and the DigiDOP framework itself.",
+    "outputs": [
+      { "title": "Differential Outcomes Training of Visuospatial Memory: A Gamified Approach Using a Socially Assistive Robot", "venue": "International Journal of Social Robotics", "year": 2023 },
+      { "title": "DigiDOP: A Framework for Applying Digital Technology to the Differential Outcomes Procedure (DOP) for Cognitive Interventions in Persons with Neurocognitive Disorders", "venue": "Neuroscience & Biobehavioral Reviews", "year": 2024 },
+      { "title": "Human-Robot Mutual Learning through Affective-Linguistic Interaction and Differential Outcomes Training", "venue": "ACIIW 2024", "year": 2024 },
+      { "title": "Deep Learning Approaches for User Engagement Detection in Human-Robot Interaction: A Scoping Review", "venue": "International Journal of Human–Computer Interaction", "year": 2025 },
+      { "title": "Exploring Task and Social Engagement in Companion Social Robots: A Comparative Analysis of Feedback Types", "venue": "Advanced Robotics", "year": 2025 }
+    ],
+    "audience": "Students and academics working on assistive robotics, cognitive rehabilitation technology, or HRI for clinical and ageing populations."
+  },
+  {
+    "id": "rewilding",
+    "title": "Diversity Creates Diversity: Rewilding & Participatory Complex Systems Modelling",
+    "status": "Completed",
+    "years": "2022",
+    "affiliation": "NERC Discipline Hopping Grant, Sandom Lab, University of Sussex",
+    "description": "A deliberate discipline-hop outside social/affective robotics, applying complex systems and agent-based modelling methods to rewilding and nature-recovery in the UK, in collaboration with ecologist Christopher Sandom. The project explored how participatory modelling can help balance the needs of people and nature-recovery.",
+    "outputs": [
+      { "title": "A Participatory Complex Systems Modelling Approach Towards Rewilding in the UK", "venue": "ALIFE 2022", "year": 2022 }
+    ],
+    "audience": "Students and academics interested in interdisciplinary applications of ALife and complex-systems methods beyond HRI or cognitive science."
+  }
+]
